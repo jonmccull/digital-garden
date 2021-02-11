@@ -4,14 +4,8 @@ permalink: /product-marketing/
 ---
 
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+## Recommended Reading
 
-[^1]: This is the first footnote.
+- [The Racecar Growth Framework](https://www.reforge.com/blog/racecar-growth-framework)<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br><span class="footnote-inner">Dan Hockenmaier & Lenny Rachitsky for Reforge.</span><br><br></span>
 
-[^bignote]: Here's one with multiple paragraphs and code.
 
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.

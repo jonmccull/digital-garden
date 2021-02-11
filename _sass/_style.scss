@@ -1,4 +1,5 @@
 $color-primary: hsl(0, 0%, 10%);
+$color-links: hsl(197°, 100%, 45%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
@@ -82,14 +83,15 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: white !important;
+    background: $color-links;
+    text-decoration: none;
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
-    content: "↗";
+    /* content: "↗"; */
     color: #aaaaaa;
   }
   &.internal-link:after {
@@ -141,4 +143,73 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+/* FOOTNOTES from https://stevans.github.io/inline-footnotes/ 
+
+Use this HTML to create an inline footnote:;
+
+<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br><span class="footnote-inner">This is the footnote text.</span><br><br></span>
+
+
+*/
+
+/* This creates the counter  */
+body {
+  counter-reset: cb_counter_var;
+}
+
+/* This increments the counter value and defines 
+the displayed content  */
+sup::after {
+  counter-increment: cb_counter_var;
+  content: counter(cb_counter_var);
+}
+
+/* This initially hides the footnote (i.e. span)  */
+input[type=checkbox] ~ span {
+    display:none; 
+}
+
+/* This styles the footnote text which appears 
+when the label is clicked  */
+input[type=checkbox]:checked ~ span {
+    display:inline; 
+    font-size: 85%;
+    color: mix(#000, $color-text, 30%);
+    cursor:default;
+}
+
+.footnote-inner {
+  padding: 1em; 
+  border-radius: $border-radius;
+  background-color: $color-box-background;
+}
+
+/* This permanently hides the checkbox  */
+input[type=checkbox]{
+    display:none;  
+}
+
+/* This styles the footnote label to appear 
+like a hyperlink  */
+input[type=checkbox] ~ label {
+    display:inline;
+    cursor:pointer;
+    color: $color-links;
+    text-decoration:none;
+}
+
+/* This styles the footnote label when the mouse 
+hover over it */
+input[type=checkbox] ~ label:hover {
+    text-decoration:underline;
+    cursor:pointer;
+    color: $color-links;
+}
+
+/* This styles the footnote label after it is clicked */
+input[type=checkbox]:checked ~ label {
+    color: $color-links;
+    text-decoration:none;
 }
