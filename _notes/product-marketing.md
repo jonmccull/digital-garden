@@ -6,6 +6,11 @@ permalink: /product-marketing/
 
 ## Recommended Reading
 
-- [The Racecar Growth Framework](https://www.reforge.com/blog/racecar-growth-framework)<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><br><br><span class="footnote-inner">Dan Hockenmaier & Lenny Rachitsky for Reforge.</span><br><br></span>
+In no particular order...
+
+- [The Racecar Growth Framework](https://www.reforge.com/blog/racecar-growth-framework)<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">Dan Hockenmaier and [Lenny Rachitsky](https://www.lennyrachitsky.com) for Reforge.</span></span>
+- [Discover Your Products’ Hidden Potential](https://hbr.org/1996/05/discover-your-products-hidden-potential)<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><span class="footnote-inner">Ian MacMillan and Rita Gunther McGrath for Harvard Busniess Review</span></span>
+- [Inputs, Outputs, and Outcomes: A framework for measuring the impact of product marketing](https://mike-eck.medium.com/inputs-outputs-and-outcomes-a-framework-for-measuring-the-impact-of-product-marketing-dc90d05af93a)<input type="checkbox" id="cb3" /><label for="cb3"><sup></sup></label><span><span class="footnote-inner">Michael Eckstein argues that the key to measuring the impacts of product marketing work is to understand its contribution to outcomes which impact key business goals rather than trying to measure inputs to, for example, product development.</span></span>
+- [Product Marketing Lessons Learned Inside Wistia, Hubspot, Localytics & Foursquare](https://www.forgetthefunnel.com/resources/product-marketing-lessons-wistia-hubspot-localytics-foursquare)<input type="checkbox" id="cb4" /><label for="cb4"><sup></sup></label><span><span class="footnote-inner">[Naike Romain](https://www.linkedin.com/in/naikeromain/), Senior Product Marketing Manager at Foursquare, chats with [Forget the Funnel](https://www.forgetthefunnel.com/) on a range of topics including: the range of job specs for PMMs across different companies, customer and market research tactics to inform product launches as well as development roadmaps, and how her process for developing positioning and messaging has evolved throughout her career.</span></span>
 
 
