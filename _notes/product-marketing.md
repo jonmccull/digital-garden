@@ -5,7 +5,11 @@ permalink: /product-marketing/
 
 ## What is Product Marketing?
 
-Product Marketers are responsible for understanding the broader context of a product offering within a market.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">"[Product marketers are] the people responsible for being able to understand – and therefore articulate – what is different and better and remarkable about your for offering, for your target people." – [April Dunford](https://twitter.com/aprildunford?lang=en) in [Product Marketing Alliance](https://productmarketingalliance.com/what-is-product-marketing/).</span></span> They work at the intersection of product development, marketing, PR, and tech. Product Marketers use customer, market and competitive research to develop positioning, messaging and audience segmentation strategies to drive adoption.
+Product marketing is the driving force behind getting a product to market (and keeping it there) by having a deep understanding of the broader context of a product offering.
+
+A product marketer's job is to clearly articulate the product's value in a way that resonates with the target market to drive adoption and advocacy.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">"[Product marketers are] the people responsible for being able to understand – and therefore articulate – what is different and better and remarkable about your for offering, for your target people." – [April Dunford](https://twitter.com/aprildunford?lang=en) in [Product Marketing Alliance](https://productmarketingalliance.com/what-is-product-marketing/).</span></span> Internally, product marketing should represent the voice of customer before, during and after launch. But developing lifecycle messaging strategies stories and narratives in a vacuum won't get you very far. This isn't just copywriting.
+
+Product marketers use customer, market and competitive research to develop positioning, messaging and audience segmentation strategies that increase retention, reduce churn and accelerate adoption.
 
 The scope of the Product Marketing function will typically include four areas:
 
