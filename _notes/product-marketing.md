@@ -12,13 +12,11 @@ A product marketer's job is to clearly articulate the product's value in a way t
 The scope of the Product Marketing function will typically include four areas:
 
 1. ### Research
-
-
-
 2. ### Positioning
 3. ### Go-To-Market
 4. ### Product Messaging
 
+🚧 _This Note is a work in progress. More work to do here_
 
 ## References
 

@@ -9,7 +9,7 @@ permalink: /
 
 My name is Jon McCullough. I'm a Canadian product marketer based in Oslo working at [[Vivaldi]]. Right now I'm probably eating 🍕
 
-## Articles I'm working on
+## Notes I'm working on
 
 - [[Branding a Browser]]
 - [[Product Marketing]]

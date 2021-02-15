@@ -56,7 +56,7 @@ The upside of having such an informal starting point, of course, is that it mean
 With that in mind, we revisited the Brand Sprint concept, making a few tweaks to focus it as a tool for internal discovery. We slotted in a 2-hour brainstorming session, inviting the management team along with a few folks from various teams to get a good cross-section of the company. Hopefully the session would give us a clearer picture of: what is Vivaldi, how are we doing it better than the competition, who is it for, and why are we here?
 
 
-🚧 _This section is a work in progress. More work to do here_
+🚧 _This Note is a work in progress. More work to do here_
 
 ## Strategy
 

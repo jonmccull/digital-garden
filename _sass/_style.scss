@@ -31,10 +31,18 @@ time {
 }
 
 footer {
-  margin: 2em 0;
-  font-size: 0.8em;
+  display: flex;
+  justify-content: center;
   color: mix($color-text, white, 80%);
-  padding-top: 1em;
+}
+footer .container {
+  width: 100%;
+  max-width: 1100px;
+  padding: 40px;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: 0.8em;
+  
 }
 
 img {
@@ -190,7 +198,7 @@ input[type=checkbox]:checked ~ span {
     float: left;
     left: 1rem;
     clear: both;
-    width: 90%;
+    width: 95%;
     vertical-align: baseline;
     position: relative;
     background: $color-box-background;
