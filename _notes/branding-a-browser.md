@@ -21,15 +21,13 @@ This isn't a browser that fades into the background.
 
 Vivaldi is an upstart in a world of giants, but it's hardly a household name. Competing directly with the likes of Google, Apple and Microsoft is never an easy prospect. Vivaldi has a differentiated product offering and a loyal following. The company–headed by former Opera co-founder [Jon von Tetzchner](https://twitter.com/jonsvt)–has a strong sense of [ethical purpose](https://whereby.com/blog/stories/the-challenges-facing-ethical-tech-companies) and a product that is an [attention-magnet](https://vivaldi.com/press-coverage/) for tech press.
 
-We're seeing signs of product market fit amongst Early Adopters. We're onto something.
+We're seeing signs of product market fit amongst Early Adopters. But what will push Vivaldi through to the next stage of growth? How can we expand beyond Early Adopters and get a wider audience more excited about (and connected to) a part of their day that’s become invisible? Will having a more refined brand position help us push through to the next stage of growth?
 
-But what will push Vivaldi through to the next stage of growth? How can we expand beyond Early Adopters and get a wider audience more excited about (and connected to) a part of their day that’s become invisible? Will having a more refined brand position help us push through to the next stage of growth?
-
-Recently I took a deep dive to find out if refining the Vivaldi brand could give us some answers.
+Recently I took a deep dive to find out if refining the [[Vivaldi]] brand could give us some answers.
 
 # The Plan
 
-[[Brand]] development is a heavy topic. Sure, I'd dabbled with brand in the past, but this project was different. We wanted to go deep, give it the attention it deserves and come back with recommendations we could stand by as a company for potentially years to come.
+[[Brand]] development is a heavy topic. Sure, I've dabbled with it in the past, but this project was different. We wanted to go deep, give it the attention it deserves and come back with recommendations we could stand by as a company for potentially years to come.
 
 At the same time, it felt like this is __exactly__ the kind of project that can slog on and never really cross a finish line. This needed to be time-bound, focused and have a clear deliverable where we could step back and say "OK, now we're done".
 
@@ -51,6 +49,14 @@ Would a 3-hour workshop be enough? I didn't think so. 😬 So, instead we cooked
 
 ## Insights
 
-Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I wrote a few years back, but there is little in terms of concrete guidelines from the top down. This is, in a lot of ways, by design.
+Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I wrote a few years back, but there is little in terms of concrete guidelines or documentation. This is, in a lot of ways, by design. As a company, quite early on, the ethos was cemented as a kind of "organised chaos". There's no middle management, decision-making is often democratic and the product development roadmap happens, to a large degree, "organically" with a lot of input from beta testers and Vivaldi users at large.
 
-🚧 _This article is a work in progress. To be continued..._
+The upside of having such an informal starting point, of course, is that it meant there was not a lot in place that would tie us down during this process. The world was our oyster. 🌈 The downside? Uncovering and putting into words the unspoken understanding of *what* Vivaldi is and *why* we're here is... daunting.
+
+With that in mind, we revisited the Brand Sprint concept, making a few tweaks to focus it as a tool for discovery. We slotted in a 2-hour brainstorming session, inviting the management team along with a few folks from various teams to get a good cross-section of the company. Hopefully the session would give us a clearer picture of: what is Vivaldi, how are we doing it better than the competition, who is it for, and why are we here?
+
+
+🚧 _This section is a work in progress. More work to do here_
+
+## Strategy
+
