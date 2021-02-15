@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+
+    {{!-- The hero section with blog cover image as a background defined in style.css --}}
+    <div class="hero-wrap">
+    <div class="hero-wrap-bg">
+    <section class="hero outer fadeInDown delay_075s">
+      <div class="inner">
+       <!-- <p class="hero-avatar"><img srcset="{{img_url profile_image size="xxs"}}, {{img_url profile_image size="xs"}} 2x" src="{{img_url profile_image size="xxs"}}" alt="{{name}}" class="avatar" /></p>       -->
+
+        <h2 class="hero-title">Hi there!</h2>
+        <p class="hero-description">My name is Jon McCullough. I'm a Canadian marketer based in Oslo working at Vivaldi. Right now I'm probably eating 🍕</p>
+
+      </div><!-- .inner -->
+    </section><!-- .hero -->
+    </div><!-- .hero-wrap-bg -->
+  </div><!-- .hero-wrap -->
+     
+    <main>
+      <body>
+        <div class="note-wrapper">
+              {% include head.html %}
+              {{ content }}
+        </div>
+        {% include link-previews.html wrapperQuerySelector="content" %}
+      </body>
+    </main>
+    
+    <footer>
+      <div class="container">{% include footer.html %}</div>
+    </footer>
+
+  </div>
+</html>

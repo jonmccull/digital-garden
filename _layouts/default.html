@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<div class="note-wrapper">
   {% include head.html %}
-  <body>
+
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}</main>
@@ -11,5 +12,7 @@
     </div>
 
     {% include link-previews.html wrapperQuerySelector="content" %}
+
   </body>
+</div>
 </html>

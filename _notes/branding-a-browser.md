@@ -1,6 +1,7 @@
 ---
 title: Branding a Browser
 permalink: /branding-a-browser/
+excerpt: The story of a major branding project carried out at Vivaldi in 2020 to explore the question – can a refreshed brand drive new growth?
 ---
 
 ![Vivaldi browser Rubik's cube](/assets/vivaldi-rubik.png)
