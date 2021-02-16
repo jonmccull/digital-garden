@@ -12,9 +12,32 @@ A product marketer's job is to clearly articulate the product's value in a way t
 The scope of the Product Marketing function will typically include four areas:
 
 1. ### Research
+	
+	Conducting both quantitative and qualitative research with of a view of understanding customers at every stage of the user journey (potential, existing, churn risk and customers who've dropped it for an alternative).
+
+	Contribute to the ongoing competitive analysis effort by tracking overarching market trends and patterns.
+
+
 2. ### Positioning
+
+	The Product Marketing function leads on [[Positioning]] strategy, using insights from research, market trends and their knowledge of the category's competition.
+
+	Work in collaboration with other marketing initiatives to evolve the product's position in the market and category, as well as be an advocate for users in go-to-marketing and launch planning.
+
+
 3. ### Go-To-Market
-4. ### Product Messaging
+
+	Launch the thing. 🚀
+
+4. ### Messaging
+
+	[[Messaging]] work in relation to Product Marketing could also fall under the umbrella of "Lifecycle Marketing", if there's a distinct function for that within the organisation.<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><span class="footnote-inner">"As a Product Marketing organization grows, this attribute may be one of the first to split off into its own specialty role: Lifecycle Marketing. Either way, it’s important for the product marketer to have awareness about lifecycle messaging and to think strategically about how to implement smart messaging strategies — messaging is one of the top ways to achieve PMM goals." – [Kevan Lee](https://twitter.com/kevanlee), in [Product Marketing Playbook](https://kevanlee.substack.com/p/204-product-marketing-playbook)</span></span> 
+
+	The goal is to craft the story and narrative you want to tell and deliver this in effective ways at the appropriate time throughout the user journey.
+
+	This means, in the case of a SaaS product for example, creating messaging that is used in-app, but also to drive product preference and adoption (e.g. websites, external communications, case studies and white papers.)
+
+
 
 🚧 _This Note is a work in progress. More work to do here_
 

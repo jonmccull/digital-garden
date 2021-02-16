@@ -42,17 +42,21 @@ Would a 3-hour workshop be enough? I didn't think so. 😬 So, instead we cooked
         
 1. **Insights:** Where are we now? What can we learn from our users (past, present and potential) that would help us uncover Vivaldi purpose and the way forward?
 
-2. **Strategy**: Digging into the competitive landscape. How does Vivaldi fit in and how can we carve out a niche for ourselves next to the likes of Chrome, Firefox, Safari and Brave? Positioning, competitive analysis and a long hard look at how we sell Vivaldi, who we're targeting and how to beat the competition.
+2. **Strategy**: Digging into the competitive landscape. How does Vivaldi fit in and how can we carve out a niche for ourselves next to the likes of Chrome, Firefox, Safari and Brave? [[Positioning]], competitive analysis and a long hard look at how we sell Vivaldi, who we're targeting and how to beat the competition.
 
 3. **Brand Blueprint**: Piecing together our concrete deliverable, a one-page Brand Blueprint that everyone can use as the single source of truth on brand.
     
-![](/assets/brand-development-plan.jpg)
+![Branding a browser - the process](/assets/brand-development-plan.jpg)
 
 ## Insights
 
-Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I wrote a few years back, but there is little in terms of concrete guidelines or documentation. This is, in a lot of ways, by design. As a company, quite early on, the ethos was cemented as a kind of "organised chaos". There's no middle management, decision-making is often democratic and the product development roadmap happens, to a large degree, "organically" with a lot of input from beta testers and Vivaldi users at large.
+Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I wrote a few years back, but there is little in terms of concrete guidelines or documentation. 
 
-The upside of having such an informal starting point, of course, is that it meant there was not a lot in place that would tie us down during this process. The world was our oyster. 🌈 The downside? Uncovering and putting into words the unspoken understanding of *what* Vivaldi is and *why* we're here is... daunting.
+This is, in a lot of ways, by design. 
+
+As a company, quite early on, the ethos was cemented as a kind of "organised chaos". There's little/no middle management, decision-making is often democratic and the product development roadmap happens, to a large degree, "organically" with a lot of input from beta testers and Vivaldi users at large.
+
+The upside of having such an informal starting point, of course, is that it meant there was not a lot in place that would tie us down during this process. The world was our oyster. 🌈 The downside? Uncovering and putting into words the __unspoken__ understanding of *what* Vivaldi is and *why* we're here... well, that's a daunting goal isn't it.
 
 With that in mind, we revisited the Brand Sprint concept, making a few tweaks to focus it as a tool for internal discovery. We slotted in a 2-hour brainstorming session, inviting the management team along with a few folks from various teams to get a good cross-section of the company. Hopefully the session would give us a clearer picture of: what is Vivaldi, how are we doing it better than the competition, who is it for, and why are we here?
 
