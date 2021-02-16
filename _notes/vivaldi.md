@@ -1,5 +1,6 @@
 ---
 title: Vivaldi
+permalink: /vivaldi/
 ---
 
 Vivaldi is building a browser that's powerful, personal and flexible. A browser that adapts to you, not the other way around.
