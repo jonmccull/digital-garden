@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
- 
+         {% include link-previews.html wrapperQuerySelector="content" %}
+
     <!-- The hero section with blog cover image as a background defined in style.css -->
     <div class="hero-wrap">
     <div class="hero-wrap-bg">
@@ -9,7 +10,7 @@
        <!-- <p class="hero-avatar"><img srcset="{{img_url profile_image size="xxs"}}, {{img_url profile_image size="xs"}} 2x" src="{{img_url profile_image size="xxs"}}" alt="{{name}}" class="avatar" /></p>       -->
 
         <h2 class="hero-title">Hi there!</h2>
-        <p class="hero-description">My name is Jon McCullough. I'm a Canadian marketer based in Oslo working at Vivaldi. Right now I'm probably eating 🍕</p>
+        <p class="hero-description">My name is Jon McCullough. I'm a Canadian marketer based in Oslo working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>. Right now I'm probably eating 🍕</p>
 
       </div><!-- .inner -->
     </section><!-- .hero -->
@@ -22,7 +23,6 @@
               {% include head.html %}
               {{ content }}
         </div>
-        {% include link-previews.html wrapperQuerySelector="content" %}
       </body>
     </main>
     
