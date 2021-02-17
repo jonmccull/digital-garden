@@ -4,8 +4,6 @@ permalink: /branding-a-browser/
 excerpt: The story of a major branding project carried out at Vivaldi in 2020 to explore the question – can a refreshed brand drive new growth?
 ---
 
-![Vivaldi browser Rubik's cube](/assets/vivaldi-rubik.png)
-
 What do you think of when you read the word “browser”? Let me guess – it doesn't exactly get you on the edge of your seat. And that's OK. That's why we're here.
 
 Here’s the thing. From a marketing perspective, browsers are a super interesting challenge. They’re clearly central to how we spend our days; they’re our window into the internet – where we work, create, binge and stalk 👀. Their design choices have an immense impact on our productivity, our mental well-being and our experience of the world. And everyone uses them.
