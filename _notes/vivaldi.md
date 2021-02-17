@@ -5,7 +5,7 @@ permalink: /vivaldi/
 
 Vivaldi is building a browser that's powerful, personal and flexible. A browser that adapts to you, not the other way around.
 
-![Vivaldi Browser](10-Vivaldi-Web-Panel.png)
+![Vivaldi Browser](/assets/10-Vivaldi-Web-Panel.png)
 
 ## What do I do at Vivaldi?
 I joined a small marketing team as Growth Marketing Manager in 2016. At the start of 2021 I took on the Head of [[Product Marketing]] role to tackle [branding](/branding-a-browser){: .internal-link}<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><span class="footnote-inner">See [[Branding a Browser]] for a detailed article on the process of developing brand at Vivaldi.</span></span>, user acquisition and activation. I work at the intersection of product development, marketing, PR, and tech, with a view of gaining growth in the millions of users globally.
