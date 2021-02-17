@@ -22,7 +22,7 @@ Vivaldi is an upstart in a world of giants, but it's hardly a household name. Co
 
 We're seeing signs of product market fit amongst Early Adopters. But what will push Vivaldi through to the next stage of growth? How can we expand beyond Early Adopters and get a wider audience more excited about (and connected to) a part of their day that’s become invisible? Will having a more refined brand position help us push through to the next stage of growth?
 
-Recently I took a deep dive to find out if refining the [[Vivaldi]] brand could give us some answers.
+Recently I took a deep dive to find out if refining the Vivaldi brand could give us some answers.
 
 # The Plan
 
@@ -56,7 +56,12 @@ As a company, quite early on, the ethos was cemented as a kind of "organised cha
 
 The upside of having such an informal starting point, of course, is that it meant there was not a lot in place that would tie us down during this process. The world was our oyster. 🌈 The downside? Uncovering and putting into words the __unspoken__ understanding of *what* Vivaldi is and *why* we're here... well, that's a daunting goal isn't it.
 
-With that in mind, we revisited the Brand Sprint concept, making a few tweaks to focus it as a tool for internal discovery. We slotted in a 2-hour brainstorming session, inviting the management team along with a few folks from various teams to get a good cross-section of the company. Hopefully the session would give us a clearer picture of: what is Vivaldi, how are we doing it better than the competition, who is it for, and why are we here?
+With that in mind, we revisited the Brand Sprint concept, making a few tweaks to focus it as a tool for internal discovery. We slotted in a 2-hour brainstorming session, inviting the management team along with a few folks from various teams to get a good cross-section of the company. Hopefully the session would give us some insight into the internal understanding of: 
+
+- What is Vivaldi?
+- How are we doing it better than the competition, 
+- Who is it for? And, 
+- Why are we here?
 
 
 🚧 _This Note is a work in progress. More work to do here_
