@@ -1,37 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-         {% include link-previews.html wrapperQuerySelector="content" %}
-         {% include head.html %}
+   
+   {% include head.html %}
+
+<div class="container-grid">
 
     <!-- The hero section with blog cover image as a background defined in style.css -->
-    <div class="hero-wrap">
-    <div class="hero-wrap-bg">
-    <section class="hero outer fadeInDown delay_075s">
-      <div class="inner">
-       <p class="hero-avatar"><img src="/assets/jonmc-profile-pic-800.jpg" alt="Jon McCullough" class="avatar" /></p>       
+    <div class="hero-container">
+      <div class="hero-wrap">
+      <div class="hero-wrap-bg">
+      <section class="hero outer fadeInDown delay_050s">
+        <div class="inner">
+         <p class="hero-avatar"><img src="/assets/jonmc-profile-pic-800.jpg" alt="Jon McCullough" class="avatar" /></p>       
 
-        <h2 class="hero-title">Hi there!</h2>
-        <p class="hero-description">My name is Jon McCullough. I'm a Canadian marketer based in Oslo working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>. Right now I'm probably eating 🍕</p>
+          <h2 class="hero-title">Hi there!</h2>
+          <p class="hero-description">My name is Jon McCullough. I'm a Canadian marketer based in Oslo working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>. Right now I'm probably eating 🍕</p>
 
-        {% include social-links.html %}
+          {% include social-links.html %}
 
-      </div><!-- .inner -->
-    </section><!-- .hero -->
-    </div><!-- .hero-wrap-bg -->
-  </div><!-- .hero-wrap -->
-     
-    <main>
+        </div><!-- .inner -->
+      </section><!-- .hero -->
+      </div><!-- .hero-wrap-bg -->
+    </div><!-- .hero-wrap -->
+   </div><!-- .hero-container grid element-->
+
+    <main class="main">
       <body>
-        <div class="note-wrapper">
-              {% include head.html %}
               {{ content }}
-        </div>
       </body>
     </main>
-    
-    <footer>
-      <div class="container">{% include footer.html %}</div>
-    </footer>
 
-  </div>
+{% include link-previews.html wrapperQuerySelector="content" %}
+
+  </div><!-- .container-grid -->
 </html>

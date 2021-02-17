@@ -4,19 +4,20 @@ layout: default
 
 <article>
 
-  <div>
+  <div class="article-header">
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
-  </div>
+  </div><!-- .article-header -->
+          
+      <div class="main">
+        <content>
+          {{ content }}
+          </content>
+      </div><!-- .main -->
 
-  <div id="notes-entry-container">
-    <content>
-      {{ content }}
-    </content>
-  </div>
 </article>
 
 <h2 style="margin-bottom: 1em">Notes mentioning this note</h2>
