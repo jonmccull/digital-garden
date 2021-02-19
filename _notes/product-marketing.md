@@ -1,6 +1,7 @@
 ---
 title: Product Marketing
 permalink: /product-marketing/
+excerpt: Product marketing is the driving force behind getting a product to market (and keeping it there).
 ---
 
 ## What is Product Marketing?
