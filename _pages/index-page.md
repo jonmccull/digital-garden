@@ -1,8 +1,9 @@
 ---
 layout: index-page
-title: Home
+title: Jon McCullough
 id: index
 permalink: /
+excerpt: Jon McCullough is a Canadian product marketer based in Norway. Why is he writing this in the third-person, you ask? Good question.
 ---
 
 
