@@ -12,3 +12,4 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Why is h
 
 - [[Branding a Browser]]
 - [[Product Marketing]]
+- [[Vivaldi]]
