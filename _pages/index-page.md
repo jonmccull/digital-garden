@@ -7,7 +7,6 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Why is h
 ---
 
 
-
 ## Notes I'm working on
 
 - [[Branding a Browser]]

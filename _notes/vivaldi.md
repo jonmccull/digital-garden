@@ -1,6 +1,7 @@
 ---
 title: Vivaldi
 permalink: /vivaldi/
+image: /assets/10-Vivaldi-Web-Panel.png
 ---
 
 Vivaldi is building a browser that's powerful, personal and flexible. A browser that adapts to you, not the other way around.
