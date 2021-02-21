@@ -3,34 +3,22 @@
    
    {% include head.html %}
 
-<div class="container-grid">
+  <div class="index-grid">
 
-    <!-- The hero section with blog cover image as a background defined in style.css -->
-    <div class="hero-container">
-      <div class="hero-wrap">
-      <div class="hero-wrap-bg">
-      <section class="hero outer fadeInDown delay_050s">
-        <div class="inner">
-         <p class="hero-avatar"><img src="/assets/jon-mccullough.jpg" alt="Jon McCullough" class="avatar" /></p>       
+    <p class="profile-pic"><img src="/assets/jon-mccullough.jpg" alt="Jon McCullough"/></p>       
 
-          <h2 class="hero-title">Hi there!</h2>
-          <p class="hero-description">My name is Jon McCullough. I'm a Canadian product marketer based in Oslo working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>. Right now I'm probably eating 🍕</p>
+    <div class="hero-text">
+      <h2 class="hero-title">Hi, I'm Jon.</h2>
+      <p class="hero-description">I'm a product marketer based in Oslo working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>.</p>
+      <p class="hero-description">This site is a bit different. The notes I post here are a constant work-in-progress. They're never "done". Think <a href="https://maggieappleton.com/garden-history">digital garden</a> rather than personal blog.</p>
+      <p class="hero-description">Have a look around and let me know what you think!</p>
 
-          {% include social-links.html %}
+      <div class="social-links">{% include social-links.html %}</div>
+    </div>
 
-        </div><!-- .inner -->
-      </section><!-- .hero -->
-      </div><!-- .hero-wrap-bg -->
-    </div><!-- .hero-wrap -->
-   </div><!-- .hero-container grid element-->
-
-    <main class="main">
-      <body>
-              {{ content }}
-      </body>
-    </main>
+    <div class="index-body">{{ content }}</div>
 
 {% include link-previews.html wrapperQuerySelector="content" %}
 
-  </div><!-- .container-grid -->
+  </div><!-- .index-grid -->
 </html>
