@@ -473,13 +473,13 @@ input[type=checkbox]:checked ~ span {
     margin: 1rem;
     display: block;
     float: left;
-    left: 1rem;
     clear: both;
     width: 95%;
-    vertical-align: baseline;
+    /* vertical-align: baseline; */
     position: relative;
     background: $color-box-background;
     border-radius: $border-radius;
+    box-sizing: border-box;
     
 }
 
