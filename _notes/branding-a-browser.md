@@ -2,6 +2,7 @@
 title: Branding a Browser
 permalink: /branding-a-browser/
 excerpt: The story of a major branding project carried out at Vivaldi in 2020 to explore the question – can a refreshed brand drive new growth?
+image: /assets/vivaldi-rubik.png
 ---
 
 What do you think of when you read the word “browser”? Let me guess – it doesn't exactly get you on the edge of your seat. And that's OK. That's why we're here.
