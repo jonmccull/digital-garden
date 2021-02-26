@@ -34,18 +34,6 @@ $profile-pic-height: auto;
   font: $font-family;
 }
 
-.inner {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 720px;
-}
-
-.inner-wide {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1080px;
-}
-
 /* Buttons */
 button,
 .btn {
@@ -160,6 +148,7 @@ footer {
   color: mix($color-text, white, 80%);
   margin: 40px 0 40px 0;
 }
+
 footer .container {
   width: 100%;
   max-width: 1100px;
@@ -235,6 +224,10 @@ a {
   }
 }
 
+.internal-link {
+  font-weight: 400;
+}
+
 .internal-link:hover {
   border-bottom: 1px solid $color-border;
 
@@ -249,7 +242,7 @@ nav {
   margin: 1rem 0 1rem;
 }
 
-/* Layout */
+/* Grid Layout */
 
 .container-grid {
  display: grid;
@@ -369,7 +362,7 @@ nav {
       padding: 0px 10px 0px 20px;
   }
 
-/* Index layout styling */
+/* Index Page Grid Layout */
   .index-grid {
     display: grid;
     grid-template-columns: 0.15fr 0.70fr 0.15fr;
@@ -475,7 +468,6 @@ input[type=checkbox]:checked ~ span {
     float: left;
     clear: both;
     width: 95%;
-    /* vertical-align: baseline; */
     position: relative;
     background: $color-box-background;
     border-radius: $border-radius;
