@@ -25,7 +25,7 @@ We're seeing signs of product market fit amongst Early Adopters. But what will p
 
 Recently I took a deep dive to find out if refining the Vivaldi brand could give us some answers.
 
-# The Plan
+## The Plan
 
 [[Brand]] development is a heavy topic. Sure, I've dabbled with it in the past, but this project was different. We wanted to go deep, give it the attention it deserves and come back with recommendations we could stand by as a company for potentially years to come.
 
@@ -38,12 +38,15 @@ Months before tackling this project, I'd been tipped off about the [Brand Sprint
 The Brand Sprint ticked a lot of boxes: it's fast, has a tangible deliverable and involved a handful of exercises that get you where you need to go. But somehow it didn't feel like it would go **deep** enough. The process was designed for early stage startups looking to get their foundations in place. Vivaldi had 4+ years of "brand equity" and nearly 2M active users to think about; we're not starting from scratch here. Not to mention that as a company we pride ourselves on being extremely flat and democratic; every one of the 50+ employees should feel ownership of the decisions being made and our road ahead in terms of brand.
 
 Would a 3-hour workshop be enough? I didn't think so. 😬 So, instead we cooked up a three-phase plan:
-        
-1. **Insights:** Where are we now? What can we learn from our users (past, present and potential) that would help us uncover Vivaldi purpose and the way forward?
+
+
+1. **Insights**: Where are we now? What can we learn from our users (past, present and potential) that would help us uncover Vivaldi purpose and the way forward?
 
 2. **Strategy**: Digging into the competitive landscape. How does Vivaldi fit in and how can we carve out a niche for ourselves next to the likes of Chrome, Firefox, Safari and Brave? [[Positioning]], competitive analysis and a long hard look at how we sell Vivaldi, who we're targeting and how to beat the competition.
 
 3. **Brand Blueprint**: Piecing together our concrete deliverable, a one-page Brand Blueprint that everyone can use as the single source of truth on brand.
+
+
     
 ![Branding a browser - the process](/assets/brand-development-plan.jpg)
 
