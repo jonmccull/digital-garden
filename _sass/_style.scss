@@ -426,6 +426,25 @@ code {
   cursor: help;
 }
 
+body ol, body ul {
+    margin-top: 21px;
+    margin-bottom: 25px;
+    padding: 6px 18px 6px 30px;
+    clear: both;
+    border: 1px solid rgba(76,183,221,.02);
+    border-radius: 2px;
+    background-color: #f8fcff;
+    color: #182027;   
+}
+
+body li {
+    margin-top: 2px;
+    margin-bottom: 13px;
+    padding-left: 3px;
+    line-height: 26px;
+    font-weight: 200;
+}
+
 /* FOOTNOTES from https://stevans.github.io/inline-footnotes/ 
 
 Use this HTML to create an inline footnote:;
