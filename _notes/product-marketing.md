@@ -45,7 +45,7 @@ This means, in the case of a SaaS product for example, creating messaging that i
 
 ## References
 
-[What is Product Marketing?](https://productmarketingalliance.com/what-is-product-marketing/)<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">A thorough explainer article from leading Product Marketing community and educational resource the [Product Marketing Alliance](https://productmarketingalliance.com/). The article includes a number of quotes from industry veterans, including [April Dunford](https://twitter.com/aprildunford?lang=en) (author of <em>[Obviously Awesome](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005/)</em>, 2019).</span></span>
+[What is Product Marketing?](https://productmarketingalliance.com/what-is-product-marketing/)<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">A thorough explainer article from leading Product Marketing community and educational resource, the [Product Marketing Alliance](https://productmarketingalliance.com/). This article includes a number of quotes from industry veterans, including [April Dunford](https://twitter.com/aprildunford?lang=en) (author of [[Obviously Awesome]], 2019).</span></span>
 
 [The Racecar Growth Framework](https://www.reforge.com/blog/racecar-growth-framework)<input type="checkbox" id="cb2" /><label for="cb2"><sup></sup></label><span><span class="footnote-inner">Dan Hockenmaier and [Lenny Rachitsky](https://www.lennyrachitsky.com) for Reforge.</span></span>
 
