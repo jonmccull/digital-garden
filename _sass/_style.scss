@@ -305,10 +305,10 @@ nav {
 }
 
 .footer {
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 7;
-  grid-row-end: 7;
+  grid-column-start: 1;
+  grid-column-end: 8;
+  grid-row-start: 10;
+  grid-row-end: 10;
   background-color: transparent;
 }
 
@@ -326,11 +326,53 @@ nav {
   grid-template-columns: 1fr 1fr;
 }
 
+/* Book Grid Layout */
+.book-grid {
+  display: grid;
+  grid-template-columns: 0.25fr 10px 0.20fr 10px 0.30fr 10px 0.25fr;
+  grid-template-rows: 40px 10px auto 10px auto 10px auto 10px auto;
+  min-height: 60vh;
+}
+
+.book-main {
+  grid-column-start: 3;
+  grid-column-end: 6;
+  grid-row-start: 5;
+  grid-row-end: 7;
+  background-color: transparent;
+}
+
+.book-header {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  background-color: transparent;
+}
+
+.book-pic {
+  grid-column-start: 3;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  padding: 0px 10px 0px 20px;
+  max-width: 275px;
+  padding: 60px 30px 0px 0px;
+}
+
+.book-text {
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 7;
+  padding: 0px 10px 0px 20px;
+}
+
+/* Grid adjust for screensize */
+
 @media screen and (max-width: 760px) { /* Screens 760px or less */
   /* Notes layout styling */
-  .container-grid {
-    
-  }
+
   .navigation {
     grid-column-start: 3;
     grid-column-end: 4;
@@ -362,13 +404,14 @@ nav {
       padding: 0px 10px 0px 20px;
   }
 
-/* Index Page Grid Layout */
+  /* Index Page Grid Layout */
   .index-grid {
     display: grid;
     grid-template-columns: 0.15fr 0.70fr 0.15fr;
     grid-template-rows: 40px 10px auto 10px auto 10px auto;
     min-height: 60vh;
   }
+  
   .profile-pic {
     grid-column-start: 2;
     grid-column-end: 2;
@@ -376,6 +419,7 @@ nav {
     grid-row-end: 3;
     padding: 0px 10px 0px 20px;
   }
+  
   .hero-text {
     grid-column-start: 2;
     grid-column-end: 2;
@@ -383,12 +427,14 @@ nav {
     grid-row-end: 5;
     padding: 0px 10px 0px 20px;
   }
+  
   .social-links {
     grid-column-start: 2;
     grid-column-end: 2;
     grid-row-start: 5;
     grid-row-end: 5;
   }
+  
   .index-body {
     grid-column-start: 2;
     grid-column-end: 2;
@@ -396,6 +442,46 @@ nav {
     grid-row-end: 7;
     padding: 0px 10px 0px 20px;
   }
+
+  /* Book grid adjustments */
+  .book-grid {
+    grid-template-columns: 0.25fr 10px 0.50fr 10px 0.25fr;
+    grid-template-rows: auto 10px auto 10px auto 10px auto 10px auto;
+  }
+
+  .book-header {
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+    background-color: transparent;
+  }
+
+  .book-pic {
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 5;
+    padding: 0;
+    max-width: 275px;
+  }
+
+  .book-text {
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 7;
+    grid-row-end: 7;
+    padding: 0px 10px 0px 20px;
+  }
+
+  .book-main {
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 9;
+    grid-row-end: 9;
+    background-color: transparent;
+  }
+
 
 }
 
