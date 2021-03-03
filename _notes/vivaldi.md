@@ -23,10 +23,10 @@ A personal fave of mine at the moment is Two-Level Tab Stacks<input type="checkb
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/50b155beffe84dfa836a9e4107b3f7c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Everything's an option
-Vivaldi's aim is to work for anyone so it give you options. Lots and lots of options. You choose how Vivaldi works, what features to use and how it looks.
+Vivaldi's aim is to work for anyone so it give you options. Lots and lots of options. You choose how Vivaldi works, what features to use and how it looks. It's endlessly tweakable (in a good way).
 
 ### There are no rules
-How your browser works is up to you. There are multiple ways to access and control most things in Vivaldi. Play around and find what works for you.
+How the browser works is up to you. There are multiple ways to access and control most things in Vivaldi. You can use Mouse Gestures, Keyboard Shortcuts or even a command-line interface to control the browser (all of which are fully customisable, of course). And this is where the magic happens – as you discover, mold and adopt habits into your workflow and build a way of interacting with the software that's unique to you.
 
 ### Geeking-out is the way
-Tweaking software to get it working just right for you is a totally underrated pastime. Vivaldi is made for exploring, fine-tuning and discovering what a browser can do.
+Vivaldi is unabashedly geeky. We know it's big and weird and complicated, but we do it on purpose. Vivaldi really is the antithesis of mainstream tech on this front.
