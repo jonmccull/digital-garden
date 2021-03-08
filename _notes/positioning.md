@@ -1,6 +1,7 @@
 ---
 title: Positioning
 permalink: /positioning/
+excerpt: Positioning sets the context for a product, defining how it is the best at something that a defined group cares a lot about.
 ---
 
 ## What is Positioning?
