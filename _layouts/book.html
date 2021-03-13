@@ -7,7 +7,7 @@
     
     <nav class="navigation">{% include nav.html %}</nav>
       
-    <a class="book-pic" href="{{ page.book-source }}"><img class="" src="{{ page.image }}"></a>
+    <a class="book-pic" href="{{ page.book-source }}"><img class="" loading="lazy" decoding="async" src="{{ page.image }}" alt="{{ page.title }}"></a>
     
     <div class="book-header">
         <h1>{{ page.title }}</h1>

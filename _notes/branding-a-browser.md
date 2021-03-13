@@ -2,7 +2,7 @@
 title: Branding a Browser
 permalink: /branding-a-browser/
 excerpt: The story of a major branding project carried out at Vivaldi in 2020 to explore the question – can a refreshed brand drive new growth?
-image: /assets/vivaldi-rubik.png
+image: /assets/vivaldi-rubik.webp
 ---
 
 What do you think of when you read the word “browser”? Let me guess – it doesn't exactly get you on the edge of your seat. And that's OK. That's why we're here.
@@ -33,7 +33,7 @@ At the same time, it felt like this is __exactly__ the kind of project that can 
 
 Months before tackling this project, I'd been tipped off about the [Brand Sprint](https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a) process from Google Ventures (shout out to [Forget the Funnel](https://www.forgetthefunnel.com) 🙌). The basic idea is to take the sprint format of software development and apply it to a branding process. A key part of the Brand Sprint method is that because it's brief (one, 3-hour session) it allows you to get the people in the room who need to be there. This means that founders, CEOs, and the decision makers who will ultimately give the results of this project a thumbs up/down will be along for the ride.
 
-![](/assets/brand-sprint-plan.png)
+<img loading="lazy" decoding="async" src="/assets/brand-sprint-plan.webp" alt="brand sprint plan">
 
 The Brand Sprint ticked a lot of boxes: it's fast, has a tangible deliverable and involved a handful of exercises that get you where you need to go. But somehow it didn't feel like it would go **deep** enough. The process was designed for early stage startups looking to get their foundations in place. Vivaldi had 4+ years of "brand equity" and nearly 2M active users to think about; we're not starting from scratch here. Not to mention that as a company we pride ourselves on being extremely flat and democratic; every one of the 50+ employees should feel ownership of the decisions being made and our road ahead in terms of brand.
 
@@ -46,9 +46,7 @@ Would a 3-hour workshop be enough? I didn't think so. 😬 So, instead we cooked
 
 3. **Brand Blueprint**: Piecing together our concrete deliverable, a one-page Brand Blueprint that everyone can use as the single source of truth on brand.
 
-
-    
-![Branding a browser - the process](/assets/brand-development-plan.jpg)
+<img loading="lazy" decoding="async" src="/assets/brand-development-plan.webp" alt="Branding a browser - the process">    
 
 ## Insights
 
