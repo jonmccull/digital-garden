@@ -69,4 +69,10 @@ With that in mind, we revisited the Brand Sprint concept, making a few tweaks to
 🚧 _This Note is a work in progress. More work to do here_
 
 
+## References
+
+[[Idea Work]]
+
+[[Obviously Awesome]]
+
 
