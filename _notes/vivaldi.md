@@ -2,9 +2,10 @@
 title: Vivaldi
 permalink: /vivaldi/
 image: /assets/10-Vivaldi-Web-Panel.png
+excerpt: Vivaldi is building a browser that's unabashedly geeky. It's powerful, personal and flexible. A browser that adapts to you, not the other way around.
 ---
 
-Vivaldi is building a browser that's powerful, personal and flexible. A browser that adapts to you, not the other way around.
+Vivaldi is building a browser that's unabashedly geeky. It's powerful, personal and flexible. A browser that adapts to you, not the other way around.
 
 ![Vivaldi Browser](/assets/10-Vivaldi-Web-Panel.webp)
 
