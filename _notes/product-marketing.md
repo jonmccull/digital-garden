@@ -6,7 +6,7 @@ excerpt: Product marketing is the driving force behind getting a product to mark
 
 ## What is Product Marketing?
 
-Product marketing is the driving force behind getting a product to market (and keeping it there). Product marketers use customer, market and competitive research to develop positioning, messaging and audience segmentation strategies that take into account the broader context of a product offering.
+Product marketing is the driving force behind getting a product to market (and keeping it there). Product marketers use customer, market and competitive research to develop [[Positioning]], messaging and audience segmentation strategies that take into account the broader context of a product offering.
 
 A product marketer's job is to clearly articulate the product's value in a way that resonates with the target market to drive adoption and advocacy.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">"[Product marketers are] the people responsible for being able to understand – and therefore articulate – what is different and better and remarkable about your for offering, for your target people." – [April Dunford](https://twitter.com/aprildunford?lang=en) in [Product Marketing Alliance](https://productmarketingalliance.com/what-is-product-marketing/).</span></span> Internally, product marketing should represent the voice of customer before, during and after launch.
 
