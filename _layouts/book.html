@@ -21,11 +21,6 @@
     </div><!-- .article-header -->
     
     <main class="book-main">
-      <article>        
-        <content class="book-text">
-          {{ content }}
-        </content>
-      </article>
 
 <h2 style="margin-bottom: 1em">Notes mentioning this book</h2>
       {% if page.backlinks.size > 0 %}
@@ -45,6 +40,12 @@
         </p>
       </div>
       {% endif %}
+
+    <article>        
+        <content class="book-text">
+          {{ content }}
+        </content>
+      </article>
     </main>
     
     {% include link-previews.html wrapperQuerySelector="content" %}
