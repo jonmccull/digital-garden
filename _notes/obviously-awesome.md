@@ -10,7 +10,10 @@ excerpt: Obviously Awesome goes beyond teaching you what positioning is and why 
 book-source: https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers-ebook/dp/B07PPW5V9C/ref=sr_1_1
 ---
 
-<h2 style="margin-bottom: 1em">Summary</h2>
+<h2 style="margin-bottom: 1em">Synopsis</h2>
+
+<i>From [April Dunford](https://www.aprildunford.com/obviously-awesome)</i>:
+
 Forget everything you thought you knew about [[Positioning]]. Successfully connecting your product with consumers isn’t a matter of filling in the blanks on an old-school positioning statement. Positioning is the foundation of everything we do in marketing and sales. It forms the backbone of our go-to-market strategy. Yet we don’t have a defined methodology for DOING it. At least we didn’t until now.
 
 <i>Obviously Awesome</i> goes beyond teaching you what positioning is and why you should care. It gives you a step by step process that any startup can follow to position their product, service or company. This book will teach you how to find your product’s “secret sauce” and then sell that sauce to those who crave it.
