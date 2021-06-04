@@ -10,7 +10,7 @@ excerpt: Obviously Awesome goes beyond teaching you what positioning is and why 
 book-source: https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers-ebook/dp/B07PPW5V9C/ref=sr_1_1
 ---
 
-<h2 style="margin-bottom: 1em">Synopsis</h2>
+## Description
 
 <i>From [April Dunford](https://www.aprildunford.com/obviously-awesome)</i>:
 
@@ -19,10 +19,10 @@ Forget everything you thought you knew about [[Positioning]]. Successfully conne
 <i>Obviously Awesome</i> goes beyond teaching you what positioning is and why you should care. It gives you a step by step process that any startup can follow to position their product, service or company. This book will teach you how to find your product’s “secret sauce” and then sell that sauce to those who crave it.
 
 
-<h2 style="margin-bottom: 1em">Notes</h2>
+## Notes
 - [[Positioning]] is what sets the context for a product. It helps people make sense of a product they're encountering for the first time.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">I like to describe [[Positioning]] as “context setting” for products. When we encounter something new, we will attempt to make sense of it by gathering together all of the little clues we can quickly find to determine how we should think about this new thing. Without that context, products are very difficult to understand, and the whole company suffers—not just the marketing and sales teams. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=165))</span></span>
 
-<h2 style="margin-bottom: 1em">Highlights</h2>
+## Highlights
 
 - Every single marketing and sales tactic that we use in business today uses positioning as an input and a foundation. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=145))
 - [[Positioning]] is the act of deliberately defining how you are the best at something that a defined market cares a lot about. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=147))

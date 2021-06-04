@@ -9,12 +9,12 @@ excerpt: The cofounder and chief branding officer of Red Antler, the branding an
 book-source: https://www.penguinrandomhouse.com/books/609626/obsessed-by-emily-heyward/
 ---
 
-<h2 style="margin-bottom: 1em">Context & Summary</h2>
+## Context
 Read in conjunction with a <a class="internal-link" href="/branding-a-browser/">brand development project</a> at [[Vivaldi]] in the Fall of 2020. Many great insights in how to think about [[Brand]], especially in the context of digital consumerism and direct-to-consumer products.
 
 A particular "aha" moment came when reading the case study on [Prose](https://prose.com), a shampoo brand who's key benefit is creating a bespoke product for consumers; a lot of overlap in ideas here with Vivaldi's design philosophy and point of differentiation within the browser category. Rather than removing choice to bring focus to the consumer's experience, another alternative is to create a bespoke product for them by learning exactly what they want.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">See Chapter 5 highlights, starting at:<br><br> I spoke earlier in the chapter about the false distinctions that serve a brand more than its consumers. One solution is to remove choices and make it simple. The other antidote is to <mark>learn exactly what people want, and make it for them</mark>. ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B07XXC9T8Y&location=1557))</span></span>
 
-<h2 style="margin-bottom: 1em">Synopsis</h2>
+## Description
 
 <i>From [Penguin Random House](https://www.penguinrandomhouse.com/books/609626/obsessed-by-emily-heyward/)</i>:
 
@@ -30,9 +30,7 @@ We’re in the midst of a startup revolution, with new brands popping up every d
 
 Whether you’re starting a new business, launching a new product line, or looking to refresh a brand for a new generation of customers, <i>Obsessed</i> shows you why the old rules of brand-building no longer apply, and what really works for today’s customers.
 
-
-
-<h2 style="margin-bottom: 1em">Highlights</h2>
+## Highlights
 
 - ### Chapter 1 – Fear of Death
     - identifying the attitudes and behaviors that define the people who will care about this brand the most. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B07XXC9T8Y&location=250))
