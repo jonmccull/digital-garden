@@ -5,7 +5,7 @@ subtitle: Building a brand people love from day one.
 permalink: /book/obsessed/
 book-author: Emily Heyward
 image: /assets/books/obsessed.webp
-excerpt: 
+excerpt: The old rules of brand-building no longer apply. The cofounder and chief branding officer of Red Antler, the branding and marketing company for startups and new ventures, explains how hot new brands like Casper, Allbirds, Sweetgreen, and Everlane build devoted fan followings right out of the gate.
 book-source: https://www.penguinrandomhouse.com/books/609626/obsessed-by-emily-heyward/
 ---
 
