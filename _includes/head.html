@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
 
   <link rel="canonical" href="https://jonmccullough.com{{ page.url }}" />
-
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
@@ -12,6 +12,8 @@
   <link rel="icon" type="image/png" href="/assets/favicon-32.png">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+
+  <script async defer data-domain="jonmccullough.com" src="https://plausible.io/js/plausible.js"></script>
 
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
@@ -48,6 +50,6 @@
 
 {% include link-previews.html wrapperQuerySelector="content" %}
 
-  <script async defer data-domain="jonmccullough.com" src="https://plausible.io/js/plausible.js"></script>
+  
 
 </head>
