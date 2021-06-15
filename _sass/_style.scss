@@ -368,6 +368,20 @@ nav {
   padding: 0px 10px 0px 20px;
 }
 
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* Grid adjust for screensize */
 
 @media screen and (max-width: 760px) { /* Screens 760px or less */
