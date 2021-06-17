@@ -29,8 +29,9 @@ $profile-pic-height: auto;
 }
 
 .hero-title {
-  font-size: 2.22222rem;
+  font-size: 2.0rem;
   margin: 0 0 1.66667rem;
+  line-height: normal;
   font: $font-family;
 }
 
@@ -143,7 +144,7 @@ time {
 }
 
 footer {
-  display: flex;
+  display: block;
   justify-content: center;
   color: mix($color-text, white, 80%);
   margin: 40px 0 40px 0;
@@ -157,7 +158,6 @@ footer .container {
   justify-content: space-between;
   flex-direction: row;
   font-size: 0.8em;
-  
 }
 
 img {
@@ -178,6 +178,10 @@ blockquote {
   p {
     margin: 0;
   }
+}
+
+.grey-text {
+  color: #a4a2a2;
 }
 
 hr {
@@ -268,7 +272,7 @@ nav {
 
 .hero-text {
   grid-column-start: 3;
-  grid-column-end: 3;
+  grid-column-end: 6;
   grid-row-start: 3;
   grid-row-end: 3;
   background-color: transparent;
@@ -276,21 +280,22 @@ nav {
 
 .profile-pic {
   grid-column-start: 5;
-  grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-column-end: 6;
+  grid-row-start: 5;
+  grid-row-end: 6;
   background-color: transparent;
 }
 
 .social-links {
   grid-column-start: 3;
   grid-column-end: 3;
+  grid-row-start: 4;
   background-color: transparent;
 }
 
 .index-body {
   grid-column-start: 3;
-  grid-column-end: 3;
+  grid-column-end: 6;
   grid-row-start: 5;
   grid-row-end: 5;
   background-color: transparent;
@@ -305,8 +310,8 @@ nav {
 }
 
 .footer {
-  grid-column-start: 1;
-  grid-column-end: 8;
+  grid-column-start: 3;
+  grid-column-end: 6;
   grid-row-start: 10;
   grid-row-end: 10;
   background-color: transparent;
@@ -409,8 +414,8 @@ nav {
     padding: 0px 10px 0px 20px;
   }
   .footer {
-    grid-column-start: 1;
-    grid-column-end: 7;
+    grid-column-start: 3;
+    grid-column-end: 6;
     padding: 0px 10px 0px 20px;
   }
   .backlink-box-grid {
@@ -435,25 +440,26 @@ nav {
   }
   
   .hero-text {
-    grid-column-start: 2;
-    grid-column-end: 2;
-    grid-row-start: 5;
-    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
     padding: 0px 10px 0px 20px;
   }
   
   .social-links {
-    grid-column-start: 2;
-    grid-column-end: 2;
-    grid-row-start: 5;
-    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    padding: 0px 10px 0px 20px;
   }
   
   .index-body {
-    grid-column-start: 2;
-    grid-column-end: 2;
-    grid-row-start: 7;
-    grid-row-end: 7;
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
     padding: 0px 10px 0px 20px;
   }
 
