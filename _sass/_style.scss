@@ -543,6 +543,10 @@ body ol, body ul {
     color: #182027;   
 }
 
+.book-text ul, .book-text ol {
+  background-color: white;
+}
+
 body li {
     margin-top: 2px;
     margin-bottom: 13px;
@@ -584,6 +588,7 @@ input[type=checkbox]:checked ~ span {
     font-size: 85%;
     color: mix(#000, $color-text, 30%);
     cursor:default;
+    position: relative;
 }
 
 .footnote-inner {
@@ -594,6 +599,7 @@ input[type=checkbox]:checked ~ span {
     clear: both;
     width: 95%;
     position: relative;
+    z-index: 1;
     background: $color-box-background;
     border-radius: $border-radius;
     box-sizing: border-box;
