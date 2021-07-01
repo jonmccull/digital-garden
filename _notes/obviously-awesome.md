@@ -25,7 +25,7 @@ Forget everything you thought you knew about [[Positioning]]. Successfully conne
 ## Highlights
 
 - Every single marketing and sales tactic that we use in business today uses positioning as an input and a foundation. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=145))
-- [[Positioning]] is the act of deliberately defining how you are the best at something that a defined market cares a lot about. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=147))
+- <mark>[[Positioning]] is the act of deliberately defining how you are the best at something that a defined market cares a lot about.</mark> ([Location 147](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=147))
 - [[Positioning]] is a fundamental input into every tactic we execute, every campaign we launch, every piece of content we create, every sales pitch we make. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=150))
 - > “How do you beat [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer)? You play him at any game but chess.” – Warren Buffett
 - I like to describe [[Positioning]] as “context setting” for products. When we encounter something new, we will attempt to make sense of it by gathering together all of the little clues we can quickly find to determine how we should think about this new thing. Without that context, products are very difficult to understand, and the whole company suffers—not just the marketing and sales teams. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07PPW5V9C&location=165))
