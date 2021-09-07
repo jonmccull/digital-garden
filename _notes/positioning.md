@@ -11,14 +11,3 @@ When a potential customer encounters a product, good positioning should enable t
 Positioning sets the context for that product in the market. It helps people make sense of something they're encountering for the first time.
 
 > "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about." – [April Dunford](https://twitter.com/aprildunford?lang=en) in [[Obviously Awesome]]
-
-## References
-
-[[The 22 Immutable Laws of Marketing]]
-
-[[Obsessed]]
-
-[[Obviously Awesome]]
-
-[[This is Marketing]]
-
