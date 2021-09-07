@@ -5,7 +5,7 @@ subtitle: How to Nail Product Positioning so Customers Get It, Buy It, Love It
 permalink: /book/obviously-awesome/
 book-author: April Dunford
 image: /assets/books/obviously-awesome.webp
-excerpt: Obviously Awesome goes beyond teaching you what positioning is and why you should care. It gives you a step by step process that any startup can follow to position their product, service or company. This book will teach you how to find your product’s “secret sauce” and then sell that sauce to those who crave it.
+excerpt: Obviously Awesome goes beyond teaching you what positioning is and why you should care. It gives you a step by step process that any startup can follow to position their product, service or company.
 
 book-source: https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers-ebook/dp/B07PPW5V9C/ref=sr_1_1
 ---
