@@ -5,7 +5,7 @@ subtitle: You Can't Be Seen Until You Learn to See
 permalink: /book/this-is-marketing/
 book-author: Seth Godin
 image: /assets/books/this-is-marketing.webp
-excerpt: Seth Godin latest is true to form. It goes deep – not by adding superfluous context or detail, but by eliminating any potential distraction to his message. A primer that's required reading for any modern marketer.
+excerpt: Seth Godin's latest is required reading for any modern marketer. To the point, concise and bulletproof.
 
 book-source: https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830
 ---
