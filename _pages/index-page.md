@@ -11,7 +11,7 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway working a
   <p class="hero-title" style="padding-top: 20px;">I'm a <a class="internal-link" href="/product-marketing/">product marketer</a> based in Oslo interested specifically in the <a class="internal-link" href="/positioning">positioning</a> and growth tactics of ethical software. Currently I'm working at <a class="internal-link" href="/vivaldi/">Vivaldi</a>.</p>
   
   <p>This site is my version of a digital garden. I don't do typical blog posts or even order things by date. Things that end up here have bubbled-up from notes and resources related to my work. They change as I learn something new or my thinking evolves. Everything's a work in progress. 🌱</p>
-  <p>A good place to start would be either of the links in the intro up top. :)</p>
+  <p>A good place to start would be any of the links in the intro up top. :)</p>
   
   <p>Want to get in touch? Drop a note to me at <a href="mailto:jonmccull@pm.me?subject=Hey there">jonmccull@pm.me</a></p>
 </div>
