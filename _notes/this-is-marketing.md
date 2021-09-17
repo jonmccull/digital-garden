@@ -12,7 +12,7 @@ book-source: https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/052554083
 
 ## Description
 
-If there's one author synonymous with marketing, it's [Seth Godin](https://seths.blog/TIM/). Too many marketing books, articles and resources bury their learnings in fluff. Godin's style has always been to go deep – not by adding superfluous context or detail, but by eliminating any potential distraction to his message. And that's what I appreciate most about his latest book, <em>This is Marketing</em>. It's to the point, concise and bulletproof. 
+If there's one author synonymous with marketing, it's [Seth Godin](https://seths.blog/TIM/). Too many marketing books, articles and resources bury their learnings in fluff. Godin's style has always been to go deep; not by adding superfluous context or detail, but by eliminating any potential distraction to his message. And that's what I appreciate most about his latest book, <em>This is Marketing</em>. It's to the point, concise and bulletproof. 
 
 Here's how Seth himself describes it:
 
