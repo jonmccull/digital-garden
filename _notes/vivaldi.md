@@ -23,6 +23,10 @@ Rather than passing the buck to third-party extensions<input type="checkbox" id=
 
 A personal fave of mine at the moment is Two-Level Tab Stacks combined with Tab Tiling<input type="checkbox" id="cb10" /><label for="cb10"><sup></sup></label><span><span class="footnote-inner">Grouping tabs together into a [Tab Stack](https://help.vivaldi.com/desktop/tabs/tab-stacks/) allows you to quickly perform commands on multiple tabs at once, keep the tab bar less cluttered and be more organised about your browser window layout. In January, 2021, Vivaldi released [Two-Level Tab Stacks](https://vivaldi.com/blog/desktop/desktop-releases/vivaldi-tabs-two-level/), which adds a second row to the tab bar to show the contents of a Tab Stack.<br><br> "Grouped tabs can become pseudo-workspaces for whatever you get up to in your browser." – [The Verge](https://www.theverge.com/2021/1/28/22253198/vivaldi-web-browser-stacked-tabs-hoarding)<br><br>![](/assets/tab-stack-styles.webp)<br>[Watch a short demo](https://www.loom.com/embed/50b155beffe84dfa836a9e4107b3f7c9) of how I use this in my everyday work.</span></span>.
 
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgiSSngNuo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### An escape from Big Tech
 The long-game of Vivaldi is to create products that allow people to move away from Big Tech<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">Namely: Google, Microsoft and Apple.</span></span>. 
 
@@ -36,7 +40,7 @@ How the browser works is up to you. There are multiple ways to access and contro
 
 When you first install Vivaldi, it gives you a choice of three default layouts. Why? To give you a head start on the core experience of the product: customisation.
 
-![Vivaldi Browser Onboarding](/assets/Vivaldi-Onboarding.webp)
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/cqB0nrQ3gco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 This is where the magic happens. As you discover new features, mold the browser to adopt new habits yourself, you begin to see something pretty unique. A workflow and way of interacting with the software that's bespoke to you.
 
