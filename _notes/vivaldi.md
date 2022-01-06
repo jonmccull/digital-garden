@@ -7,7 +7,7 @@ excerpt: Vivaldi is building a browser that's unabashedly geeky. It's powerful, 
 
 Vivaldi is building a browser that's unabashedly geeky. It's powerful, personal and freakishly flexible. A browser that adapts to you, not the other way around. What's more, it wants to do it that puts people out of reach of the prying eyes of Big Tech and the creepier aspects of life on the web in 2021.
 
-> "It's refreshing to use a piece of software that doesn't dictate how I work but lets me work how I want." – [WIRED](https://www.wired.com/story/vivaldi-4-2021/)
+> "The best browser on the web." – [WIRED](https://www.wired.com/story/vivaldi-5-review/)
 
 ![Vivaldi Browser](/assets/10-Vivaldi-Web-Panel.webp)
 
