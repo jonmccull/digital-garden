@@ -55,14 +55,12 @@ Vivaldi is unabashedly geeky. We know it's big and weird and complicated, but we
 ## Press & Reviews
 _Visit [Vivaldi Press Coverage](https://vivaldi.com/press-coverage/) for more_
 
-| Publication 	| Title 	|
-|---	|---	|
-|  WIRED	| [Vivaldi 5.0 Makes Web Browsing on Android Tablets Fun Again](https://www.wired.com/story/vivaldi-5-review/) 	|  
-| Forbes | [Forget Google Chrome: Vivaldi Is The Browser To Keep Tabs On](https://www.forbes.com/sites/barrycollins/2021/01/28/forget-google-chrome-vivaldi-is-the-browser-to-keep-tabs-on/) |
-| FastCompany | [Too many browser tabs? Vivaldi’s new stacking feature is a game changer](https://www.fastcompany.com/90598613/too-many-tabs-vivaldi-two-row-tab-stacking-feature) |
-| WIRED | [6 Reasons to Ditch Chrome for the Vivaldi Browser on Android](https://www.wired.com/story/try-vivaldi-browser-android-chrome/) |
-| Verge | [What if you could see even more tabs?](https://www.theverge.com/2021/1/28/22253198/vivaldi-web-browser-stacked-tabs-hoarding) |
-| Android Police | [Android Automotive gets its first browser and it's not Chrome](https://www.androidpolice.com/android-automotive-gets-its-first-browser-and-its-not-chrome/) |
+- WIRED	- [Vivaldi 5.0 Makes Web Browsing on Android Tablets Fun Again](https://www.wired.com/story/vivaldi-5-review/)
+- Forbes - [Forget Google Chrome: Vivaldi Is The Browser To Keep Tabs On](https://www.forbes.com/sites/barrycollins/2021/01/28/forget-google-chrome-vivaldi-is-the-browser-to-keep-tabs-on/)
+- FastCompany - [Too many browser tabs? Vivaldi’s new stacking feature is a game changer](https://www.fastcompany.com/90598613/too-many-tabs-vivaldi-two-row-tab-stacking-feature)
+- WIRED - [6 Reasons to Ditch Chrome for the Vivaldi Browser on Android](https://www.wired.com/story/try-vivaldi-browser-android-chrome/)
+- Verge - [What if you could see even more tabs?](https://www.theverge.com/2021/1/28/22253198/vivaldi-web-browser-stacked-tabs-hoarding)
+- Android Police - [Android Automotive gets its first browser and it's not Chrome](https://www.androidpolice.com/android-automotive-gets-its-first-browser-and-its-not-chrome/)
 
 
 ## Get Vivaldi
