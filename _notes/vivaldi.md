@@ -30,7 +30,7 @@ A personal fave of mine at the moment is Two-Level Tab Stacks combined with Tab 
 ### An escape from Big Tech
 The long-game of Vivaldi is to create products that allow people to move away from the prying eyes of Big Tech<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">Namely: Google, Microsoft and Apple.</span></span>. 
 
-In June 2021, the browser launched an [integrated translation tool](https://vivaldi.com/features/translate) to rival Google Translate, along with beta versions of an integrated [mail client](https://vivaldi.com/features/mail/), [calendar](https://vivaldi.com/features/calendar/) and [feed reader](https://vivaldi.com/features/feed-reader/). A major step down the road of providing an alternative, privacy-friendly productivity suite.<input type="checkbox" id="cb9" /><label for="cb9"><sup></sup></label><span><span class="footnote-inner">Here's [a short explainer](https://youtu.be/C3PEIoWSsKI) I recorded to talk more about Vivaldi Mail, Calendar, Translate and Feeds.</span></span>
+In June 2021, the browser launched an [integrated translation tool](https://vivaldi.com/features/translate) to rival Google Translate, along with beta versions of an integrated [mail client](https://vivaldi.com/features/mail/), [calendar](https://vivaldi.com/features/calendar/) and [feed reader](https://vivaldi.com/features/feed-reader/). A major step down the road of providing an alternative, privacy-friendly productivity suite.<input type="checkbox" id="cb9" /><label for="cb9"><sup></sup></label><span><span class="footnote-inner">Here's [a short explainer](https://youtu.be/C3PEIoWSsKI) with more details on Vivaldi Mail, Calendar, Translate and Feeds.</span></span>
 
 ### Everything's an option
 Vivaldi's aim is to work for anyone so it give you options. Lots and lots of options. You choose how Vivaldi works, what features to use and how it looks. It's endlessly tweakable (in a good way).
@@ -61,6 +61,8 @@ _Visit [Vivaldi Press Coverage](https://vivaldi.com/press-coverage/) for more_
 - WIRED - [6 Reasons to Ditch Chrome for the Vivaldi Browser on Android](https://www.wired.com/story/try-vivaldi-browser-android-chrome/)
 - Verge - [What if you could see even more tabs?](https://www.theverge.com/2021/1/28/22253198/vivaldi-web-browser-stacked-tabs-hoarding)
 - Android Police - [Android Automotive gets its first browser and it's not Chrome](https://www.androidpolice.com/android-automotive-gets-its-first-browser-and-its-not-chrome/)
+- FastCompany - [These clever ideas gave us hope for technology this year](https://www.fastcompany.com/90705860/best-new-ideas-in-tech)
+- FastCompany - [The little-known web browser that beats Chrome for productivity](https://www.fastcompany.com/90684502/best-productivity-browser-vivaldi-chrome)
 
 
 ## Get Vivaldi
