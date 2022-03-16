@@ -19,11 +19,11 @@ Vivaldi is a browser that demands attention and a pretty steep learning curve, b
 
 This isn't a browser that fades into the background.
 
-Vivaldi is an upstart in a world of giants, but it's hardly a household name. Competing directly with the likes of Google, Apple and Microsoft is never an easy prospect. Vivaldi has a differentiated product offering and a loyal following. The company–headed by former Opera co-founder [Jon von Tetzchner](https://twitter.com/jonsvt)–has a strong sense of [ethical purpose](https://whereby.com/blog/stories/the-challenges-facing-ethical-tech-companies) and a product that is an [attention-magnet](https://vivaldi.com/press-coverage/) for tech press.
+Vivaldi is an upstart in a world of giants, but it's hardly a household name. Competing directly with the likes of Google, Apple and Microsoft is never an easy prospect<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">Competition has kicked up another notch since this article was originally written. More challengers claiming footholds in the market have cropped up, such as [Brave](https://brave.com/) or [The Browser Company](https://thebrowser.company)</span></span>. Vivaldi has a differentiated product offering and a loyal following. The company–headed by former Opera co-founder [Jon von Tetzchner](https://twitter.com/jonsvt)–has a strong sense of [ethical purpose](https://whereby.com/blog/stories/the-challenges-facing-ethical-tech-companies) and a product that is an [attention-magnet](https://vivaldi.com/press-coverage/) for tech press.
 
 We're seeing signs of product market fit amongst Early Adopters. But what will push Vivaldi through to the next stage of growth? How can we expand beyond Early Adopters and get a wider audience more excited about (and connected to) a part of their day that’s become invisible? Will having a more refined brand position help us push through to the next stage of growth?
 
-Recently I took a deep dive to find out if refining the Vivaldi brand could give us some answers.
+In the Fall of 2020 I took a deep dive to explore if refining the Vivaldi brand could take us to the next level.
 
 ## The Plan
 
@@ -50,7 +50,7 @@ Would a 3-hour workshop be enough? I didn't think so. 😬 So, instead we cooked
 
 ## Insights
 
-Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I wrote a few years back, but there is little in terms of concrete guidelines or documentation. 
+Vivaldi is a very verbal company and doesn't have a lot on paper in terms of company vision or mission statement. Sure, we have an [about page](https://vivaldi.com/company/) on our website which I'd written a few years previously, but there is little in terms of concrete guidelines or documentation in the company's overarching strategy. 
 
 This is, in a lot of ways, by design. 
 
