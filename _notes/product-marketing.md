@@ -27,7 +27,7 @@ Using insights from research, market trends and their knowledge of the category'
 
 Product Marketing works in collaboration with other marketing initiatives to evolve the Product Positioning in the market and category, as well as be an advocate for users in Go-to-Market and launch planning.
 
-Brand Positioning is perhaps more "foundational" element of the business strategy (remaining stable for 5-10 years) where Product Marketing contributes. It refers to the mission, vision, personality of the company.
+Brand Positioning is perhaps the more "foundational" element of positioning in the business strategy (remaining stable for 5-10 years). It refers to the mission, vision, personality of the company.
 
 
 ### Go-to-Market
