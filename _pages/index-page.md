@@ -21,10 +21,12 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway working a
 	<div style="position: relative; width: 25%; float: left; display: block;">
 	  <p class="grey-text" style="margin: 0;">Twitter</p>
 	  <p class="grey-text" style="margin: 0;">LinkedIn</p>
+	  <p class="grey-text" style="margin: 0;">Mastodon</p>
 	</div>
 	<div style="position: relative; width: 75%; float: left; display: block;">
 	  <p style="margin: 0;"><a target="blank" href="https://twitter.com/jonmccull">jonmccull</a> ↗</p>
 	  <p style="margin: 0;"><a target="blank" href="https://www.linkedin.com/in/jonmccullough/">jonmccull</a> ↗</p>
+	  <p style="margin: 0;"><a rel="me" target="blank" href="https://stegodon.org/@jon">@jon@stegodon.org</a> ↗</p>
 	</div>
 	</div>
   <!-- .social-links -->
