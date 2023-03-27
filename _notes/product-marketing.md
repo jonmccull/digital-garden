@@ -23,7 +23,7 @@ Contribute to the ongoing competitive analysis effort by tracking overarching ma
 
 The Product Marketing function leads on [[Positioning]] strategy, which includes two distinct areas: Product Positioning and Brand Positioning. 
 
-Using insights from research, market trends and their knowledge of the category's competition, Product Marketing drives the definition of <strong>Product Positioning</strong> using factors including the ideal customer, use-cases, features, capabilities, benefits, and competitors. Typically, product positioning remains stable for periods of 12-18 months.
+Using insights from research, market trends and their knowledge of the category's competition, Product Marketing drives the definition of [[Product Positioning]] using factors including the ideal customer, use-cases, features, capabilities, benefits, and competitors. Typically, Product Positioning remains stable for periods of 12-18 months.
 
 Product Marketing works in collaboration with other marketing initiatives to evolve the Product Positioning in the market and category, as well as be an advocate for users in Go-to-Market and launch planning.
 
@@ -38,9 +38,9 @@ Go-to-Market encompasses the sum total of activities (i.e. “the engine”) tha
 
 [[Messaging]] work in relation to Product Marketing could also fall under the umbrella of "Lifecycle Marketing", if there's a distinct function for that within the organisation.<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><span class="footnote-inner">"As a Product Marketing organization grows, this attribute may be one of the first to split off into its own specialty role: Lifecycle Marketing. Either way, it’s important for the product marketer to have awareness about lifecycle messaging and to think strategically about how to implement smart messaging strategies — messaging is one of the top ways to achieve PMM goals." – [Kevan Lee](https://twitter.com/kevanlee), in [Product Marketing Playbook](https://kevanlee.substack.com/p/204-product-marketing-playbook)</span></span> 
 
-Messaging is the envelope that carries product positioning. The goal is to craft the story and narrative you want to tell and deliver this in effective ways at the appropriate time throughout the user journey.
+Messaging is the envelope that carries [[Product Positioning]]. The goal is to craft the story and narrative you want to tell and deliver this in effective ways at the appropriate time throughout the user journey.
 
-This means, in the case of a SaaS product for example, creating messaging that is used in-app, but also to drive product preference and adoption (e.g. websites, external communications, case studies and white papers.)
+This means, in the case of a SaaS product for example, creating Messaging that is used in-app, but also to drive product preference and adoption (e.g. websites, external communications, case studies and white papers.)
 
 Other areas of responsibility typical to Product Marketing teams:
 
