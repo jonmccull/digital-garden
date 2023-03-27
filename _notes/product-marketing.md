@@ -21,13 +21,13 @@ Contribute to the ongoing competitive analysis effort by tracking overarching ma
 
 ### Positioning
 
-The Product Marketing function leads on [[Positioning]] strategy, which includes two distinct areas. 
+The Product Marketing function leads on [[Positioning]] strategy, which includes two distinct areas: Product Positioning and Brand Positioning. 
 
-Using insights from research, market trends and their knowledge of the category's competition, Product Marketing drives the definition of Product Positioning using factors including the ideal customer, use-cases, features, capabilities, benefits, and competitors. Typically, product positioning remains stable for periods of 12-18 months.
+Using insights from research, market trends and their knowledge of the category's competition, Product Marketing drives the definition of <strong>Product Positioning</strong> using factors including the ideal customer, use-cases, features, capabilities, benefits, and competitors. Typically, product positioning remains stable for periods of 12-18 months.
 
 Product Marketing works in collaboration with other marketing initiatives to evolve the Product Positioning in the market and category, as well as be an advocate for users in Go-to-Market and launch planning.
 
-Brand Positioning is perhaps the more "foundational" element of positioning in the business strategy (remaining stable for 5-10 years). It refers to the mission, vision, personality of the company.
+<strong>Brand Positioning</strong> is perhaps the more "foundational" element of positioning in the business strategy (remaining stable for 5-10 years). It refers to the mission, vision, personality of the company.
 
 
 ### Go-to-Market
