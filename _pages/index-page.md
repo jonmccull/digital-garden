@@ -7,7 +7,7 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
 ---
 
 <div class="hero-text">
-  <a class="internal-link" style="padding-bottom:20px;" href="https://jonmccullough.com/">Jon McCullough</p>
+  <a class="internal-link" style="padding-bottom:20px;" href="https://jonmccullough.com/">Jon McCullough</a>
   <p class="hero-title" style="padding-top: 20px;">This site is a digital garden. Things that end up here have bubbled-up from notes and resources used in my work. It changes as I learn something new or my thinking evolves.</p>
   
   <p class="hero-title" style="padding-top: 20px;">Everything's a work in progress. 🌱</p>
