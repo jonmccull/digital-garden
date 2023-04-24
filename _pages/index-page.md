@@ -19,17 +19,6 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
   <p>Want to get in touch? Drop a note to me at <a href="mailto:hey@jonmccullough.com?subject=Hey there">hey@jonmccullough.com</a></p>
 </div>
 
-<!-- Social links list -->
-  <div class="social-links" style="padding-top: 50px;">
-	<div style="position: relative; width: 25%; float: left; display: block;">
-	  <p class="grey-text" style="margin: 0;">Twitter</p>
-	  <p class="grey-text" style="margin: 0;">LinkedIn</p>
-	  <p class="grey-text" style="margin: 0;">Mastodon</p>
-	</div>
-	<div style="position: relative; width: 75%; float: left; display: block;">
-	<a class="internal-link" style="padding-bottom:20px;" href="https://jonmccullough.com/">Back to jonmccullough.com</a>
-	</div>
-	</div>
-  <!-- .social-links -->
-  
-  
+<div style="position: relative; width: 75%; float: left; display: block;">
+<p><a class="internal-link" style="padding-bottom:20px;" href="https://jonmccullough.com/">Back to jonmccullough.com</a> ↗</p>
+</div>
