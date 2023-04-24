@@ -14,7 +14,7 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
   
   Here are a few nice places to dive in:
   <li><a class="internal-link" href="/product-marketing/">product marketer</a></li>
-  <li><<a class="internal-link" href="/positioning">positioning</a>/li>
+  <li><<a class="internal-link" href="/positioning">positioning</a></li>
     
   <p>Want to get in touch? Drop a note to me at <a href="mailto:hey@jonmccullough.com?subject=Hey there">hey@jonmccullough.com</a></p>
 </div>
