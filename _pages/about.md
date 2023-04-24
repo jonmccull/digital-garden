@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Now
+permalink: /now
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+*Coming soon*
