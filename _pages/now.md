@@ -3,7 +3,9 @@ title: What I'm doing now
 permalink: /now/
 ---
 
-This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.
+# What I'm doing now
+
+<em>This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.</em>
 
 ## Next moves
 
@@ -19,7 +21,9 @@ I've got a few books on the go right now:
 
 ## Intermitent Fasting
 
-## Tech Indépendance
+## Tech Independence
+
+
 
 ## Vestandlet 
 
