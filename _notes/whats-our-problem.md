@@ -1,25 +1,28 @@
 ---
 layout: book
-title: Crossing the Chasm
-subtitle: Marketing and Selling High-Tech Products to Mainstream Customers
-permalink: /book/crossing-the-chasm/
-book-author: Geoffrey A. Moore
-image: /assets/books/crossing-the-chasm.webp
-excerpt: The classic guide to bringing cutting-edge products to market and bridging the gap between early adopters and the mainstream.
+title: What's Our Problem?
+subtitle: A Self-Help Book for Societies
+permalink: /book/whats-our-problem/
+book-author: Tim Urban
+image: /assets/books/whats-our-problem.webp
+excerpt: 
 
-book-source: https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123
+book-source: https://www.goodreads.com/book/show/102146148
 ---
 
 ## Description
 
-<i>From [HarperCollins Publishers](https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850):</i>
+<i>From [goodreads](https://www.goodreads.com/book/show/102146148)</i>
 
-The bible for bringing cutting-edge products to larger markets—now revised and updated with new insights into the realities of high-tech marketing.
+From the creator of the wildly popular blog [Wait But Why](https://waitbutwhy.com/), a fun and fascinating deep dive into what the hell is going on in our strange, unprecedented modern times.
 
-In _Crossing the Chasm_, Geoffrey A. Moore shows that in the Technology Adoption Life Cycle—which begins with innovators and moves to [[early adopters]], early majority, late majority, and laggards—there is a vast chasm between the early adopters and the early majority. While early adopters are willing to sacrifice for the advantage of being first<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">"Neophiliacs are not adapters: They crave the new." – Seth Godin in [[This is Marketing]]</span></span>, the early majority waits until they know that the technology actually offers improvements in productivity. The challenge for innovators and marketers is to narrow this chasm and ultimately accelerate adoption across every segment.
+Between 2013 and 2016, Tim Urban became one of the world’s most popular bloggers, writing dozens of viral, long-form articlesabout everything from AI to colonizing Mars to procrastination. Then, he turned his attention to a new topic: the society around him. Why was everything such a mess? Why was everyone acting like such a baby? When did things get so tribal? Why do humans do this stuff?
 
-This [third edition](https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850) brings Moore's classic work up to date with dozens of new examples of successes and failures, new strategies for marketing in the digital world, and Moore's most current insights and findings. He also includes two new appendices, the first connecting the ideas in _Crossing the Chasm_ to work subsequently published in his _Inside the Tornado_, and the second presenting his recent groundbreaking work for technology adoption models for high-tech consumer markets.
+This massive topic sent Tim tumbling down his deepest rabbit hole yet, through mountains of history, evolutionary psychology, political theory, neuroscience, and modern-day political movements, as he tried to figure out the answer to a simple question: What’s our problem?
+
+Six years later, he emerged from the hole holding this book. What’s Our Problem? is a deep and expansive analysis of our modern times, in the classic style of Wait But Why, packed with original concepts, sticky metaphors, and 300 drawings. The book provides an entirely new framework and language for thinking and talking about today’s complex world. Instead of focusing on the usual left-center-right horizontal political axis, which is all about what we think, the book introduces a verticalaxis that explores how we think, as individuals and as groups. Readers will find themselves on a delightful and fascinating journey that will ultimately change the way they see the world around them.
+
+Anyway he wanted to say a lot more about all of this but there was a word limit on this book description so just go read the book.
 
 ## Notes and Highlights
 
-🚧 _This Note is a work in progress. More work to do here_
