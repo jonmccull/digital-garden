@@ -29,5 +29,5 @@ Fast forward to this week and I'm back in that same rabbit hole. This time, trig
 
 For me, a start was getting back in the habit of working here in <a class="internal-link" href="/">my digital notebook</a>.<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">Which runs on Markdown files hosted in a [GitHub repo](https://github.com/jonmccull/digital-garden). Most of the notes here are based on things I've worked on in [Logseq](https://logseq.com/) first (which uses Markdown files locally hosted on my machine, which are synced across devices using iCloud). Where these files live is the bit relevant to Sivers' post.</span></span> 
 
-## Vestandlet 
+## Vestlandlet 
 After 7 years in Oslo, our little family is gearing up for a move to the West coast of Norway this summer. We've got a new house lined up already and things are coming together! Exciting times. 
