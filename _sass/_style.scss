@@ -100,6 +100,15 @@ a.btn {
   padding-top: 0.5em;
 }
 
+a:after {
+  position: relative;
+  top: -0.5em;
+  content: "↗";
+  color: #aaa;
+  display: inline-block;
+  text-decoration: none;
+}
+
 /* Social Links */
 .social-links {
   display: -ms-flexbox;
