@@ -4,7 +4,7 @@ title: The Creative Act
 subtitle: A Way of Being
 permalink: /book/creative-act/
 book-author: Rick Rubin
-image: /assets/books/the-creative-act.png
+image: /assets/books/the-creative-act.webp
 book-source: https://www.goodreads.com/book/show/60965426-the-creative-act?from_search=true&from_srp=true&qid=FHu6hTtVgt&rank=1
 ---
 
