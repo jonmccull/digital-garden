@@ -15,7 +15,7 @@ At the end of March I was [let go](https://www.linkedin.com/posts/jonmccullough_
 
 I've got a few books on the go right now:
 
-- <a class="internal-link" href-"/book/the-creative-act/">The Creative Act</a>
+- <a class="internal-link" href="/book/the-creative-act/">The Creative Act</a> 
 - <a class="internal-link" href="/book/whats-our-problem/">What's Our Problem: A Self-Help Book for Societies</a> 
 - The Saints of Salvation
 
