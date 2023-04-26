@@ -21,5 +21,5 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
 </div>
 
 <div style="position: relative; width: 75%; float: left; display: block;">
-<p><a class="internal-link" href="https://jonmccullough.com/">Back to jonmccullough.com</a></p>
+<p><a href="https://jonmccullough.com/">Back to jonmccullough.com</a></p>
 </div>
