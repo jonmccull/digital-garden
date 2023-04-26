@@ -17,9 +17,9 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
   <li>[[Positioning]]</li>
   <li>[[Vivaldi]]</li>
     
-  <p>Want to get in touch? Drop me a line <a href="mailto:hey@jonmccullough.com?subject=Hey there">✉️ hey@jonmccullough.com</a></p>
+  <p>Want to get in touch? Drop me a line on <a href="mailto:hey@jonmccullough.com?subject=Hey there"> hey@jonmccullough.com</a></p>
 </div>
 
 <div style="position: relative; width: 75%; float: left; display: block;">
-<p><a class="internal-link" href="https://jonmccullough.com/">Back to jonmccullough.com</a> ↗</p>
+<p><a class="internal-link" href="https://jonmccullough.com/">Back to jonmccullough.com</a></p>
 </div>
