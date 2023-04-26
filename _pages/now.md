@@ -18,7 +18,7 @@ I've got a few books on the go right now:
 - The Saints of Salvation
 
 Recent articles worth a look:
-- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity?tpcc=orgsocial_edit) (Harvard Business Review)
+- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity?tpcc=orgsocial_edit) (HBR)
 - [The Age of the App is Over](https://browsercompany.substack.com/p/the-age-of-the-app-is-over) (The Browser Company)
 - [How to organize your B2B Growth Marketing team](https://newsletter.mkt1.co/p/how-to-organize-your-b2b-growth-marketing) (MKT1)
 
@@ -27,8 +27,7 @@ Relying on faceless tech giants to take care of my data has always made me nervo
 
 Fast forward to this week and I'm back in that same rabbit hole. This time, triggered by a super interesting episode of the [Tim Ferris podcast](https://tim.blog/2023/04/21/derek-sivers/) where Derek Sivers briefly talked about [[Tech Independence]] and how he imagines people should [get started](https://sive.rs/ti).
 
-For me, a start was getting back in the habit of working in <a class="internal-link" href="/">my digital notebook</a>
+For me, a start was getting back in the habit of working here in <a class="internal-link" href="/">my digital notebook</a>.<input type="checkbox" id="cb1" /><label for="cb1"><sup></sup></label><span><span class="footnote-inner">Which runs on Markdown files hosted in a GitHub repo. Most of the notes here are based on things I've worked on in [Logseq](https://logseq.com/) first (which uses Markdown files locally hosted on my machine, but synced across devices using iCloud)</span></span>. 
 
 ## Vestandlet 
-After 7 years in Oslo, our little family is gearing up for a move to the West coast of Norway this summer. 
-
+After 7 years in Oslo, our little family is gearing up for a move to the West coast of Norway this summer. We've got a new house lined up already and things are coming together! Exciting times. 
