@@ -12,7 +12,7 @@ book-source: https://www.goodreads.com/book/show/102146148
 
 ## Description
 
-<i>From [goodreads](https://www.goodreads.com/book/show/102146148)</i>
+<i>From [goodreads](https://www.goodreads.com/book/show/102146148)</i>:
 
 From the creator of the wildly popular blog [Wait But Why](https://waitbutwhy.com/), a fun and fascinating deep dive into what the hell is going on in our strange, unprecedented modern times.
 
