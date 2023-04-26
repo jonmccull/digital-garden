@@ -17,7 +17,7 @@ excerpt: Jon McCullough is a Canadian product marketer based in Norway. Welcome 
   <li>[[Product Positioning]]</li>
   <li>[[Vivaldi]]</li>
   
-  Check out my <a class="internal-link" href="">Now page</a> to see what I'm up to right now.
+  Check out my <a class="internal-link" href="/now/">Now page</a> to see what I'm up to right now.
     
   <p>Want to get in touch? Drop me a line on <a href="mailto:hey@jonmccullough.com?subject=Hey there"> hey@jonmccullough.com</a></p>
 </div>
