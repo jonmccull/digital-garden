@@ -6,35 +6,37 @@ excerpt: Product marketing is the driving force behind getting a product to mark
 
 ## What is Product Marketing?
 
-Product marketing is the driving force behind getting a product to market (and keeping it there). Product marketers use customer, market and competitive research to develop [[Positioning]], messaging and audience segmentation strategies that take into account the broader context of a product offering.
+Product marketing is the driving force behind getting a product to market (and keeping it there). Product marketers use customer, market and competitive research to develop positioning, messaging and audience segmentation strategies that take into account the broader context of a product offering.
 
 A product marketer's job is to clearly articulate the product's value in a way that resonates with the target market to drive adoption and advocacy.<input type="checkbox" id="cb7" /><label for="cb7"><sup></sup></label><span><span class="footnote-inner">"[Product marketers are] the people responsible for being able to understand – and therefore articulate – what is different and better and remarkable about your for offering, for your target people." – [April Dunford](https://twitter.com/aprildunford?lang=en) in [Product Marketing Alliance](https://productmarketingalliance.com/what-is-product-marketing/).</span></span> Internally, product marketing should represent the voice of customer before, during and after launch.
 
 The scope of the Product Marketing function will typically include four areas:
 
-### Research
+### 1. Research
 
 Conducting both quantitative and qualitative research with of a view of understanding customers at every stage of the user journey (potential, existing, churn risk and customers who've dropped it for an alternative).
 
 Contribute to the ongoing competitive analysis effort by tracking overarching market trends and patterns.
 
 
-### Positioning
+### 2. Positioning
 
-The Product Marketing function leads on [[Positioning]] strategy, which includes two distinct areas: Product Positioning and Brand Positioning. 
+The Product Marketing function leads on [[Positioning]] strategy, which includes two distinct areas:
+
+<strong>Product Positioning</strong>
 
 Using insights from research, market trends and their knowledge of the category's competition, Product Marketing drives the definition of [[Product Positioning]] using factors including the ideal customer, use-cases, features, capabilities, benefits, and competitors. Typically, Product Positioning remains stable for periods of 12-18 months.
 
-Product Marketing works in collaboration with other marketing initiatives to evolve the Product Positioning in the market and category, as well as be an advocate for users in Go-to-Market and launch planning.
+<strong>Brand Positioning</strong> 
 
-<strong>Brand Positioning</strong> is perhaps the more "foundational" element of positioning in the business strategy (remaining stable for 5-10 years). It refers to the mission, vision, personality of the company.
+Perhaps the more "foundational" element of positioning in the business strategy, [[Brand Positioning]]) encompasses the mission, vision, and personality of a company. Brand Positioning typically remains stable for 5-10 years.
 
 
-### Go-to-Market
+### 3. Go-to-Market
 
 Go-to-Market encompasses the sum total of activities (i.e. “the engine”) that gets your product to your ideal customers. 🚀
 
-### Messaging
+### 4. Messaging
 
 [[Messaging]] work in relation to Product Marketing could also fall under the umbrella of "Lifecycle Marketing", if there's a distinct function for that within the organisation.<input type="checkbox" id="cb8" /><label for="cb8"><sup></sup></label><span><span class="footnote-inner">"As a Product Marketing organization grows, this attribute may be one of the first to split off into its own specialty role: Lifecycle Marketing. Either way, it’s important for the product marketer to have awareness about lifecycle messaging and to think strategically about how to implement smart messaging strategies — messaging is one of the top ways to achieve PMM goals." – [Kevan Lee](https://twitter.com/kevanlee), in [Product Marketing Playbook](https://kevanlee.substack.com/p/204-product-marketing-playbook)</span></span> 
 
