@@ -9,7 +9,7 @@ permalink: /now/
 
 <em>Updated January 9th, 2024</em>
 
-Last year was a rollercoaster, professionally and personally. BUT as I [shared over on LinkedIn](https://www.linkedin.com/posts/jonmccullough_what-a-year-new-baby-job-city-house-activity-7150462724135698433-SHfO?utm_source=share&utm_medium=member_desktop), at the tail end of the year I had one final curveball – a dream job offer! The new year is off to a brilliant start as I gear up to start my new role at Doist.
+Last year was a rollercoaster, professionally and personally. BUT as I [shared over on LinkedIn](https://www.linkedin.com/posts/jonmccullough_what-a-year-new-baby-job-city-house-activity-7150462724135698433-SHfO?utm_source=share&utm_medium=member_desktop), at the tail end of the year I had one final curveball – a dream job offer! The new year is off to a brilliant start as I gear up to start my new role at [Doist](https://doist.com/).
 
 ## What I'm reading
 I've got a few books on the go right now:
